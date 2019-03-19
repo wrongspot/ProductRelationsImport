@@ -1,0 +1,14 @@
+{
+  "name": "tzyganu/product-relations-import",
+  "license": "MIT",
+  "type": "magento-module",
+  "description": "Magento Product relations import tool",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "authors": [
+    {
+      "name": "Marius Strajeru"
+    }
+  ]
+}
